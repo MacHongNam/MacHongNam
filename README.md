@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MacHongNam
 - 👀 I’m interested in Web Programming 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java, Javascript, PHP
+- 💞️ I’m studying at Academy Of Cryptography Techniques
 - 📫 Reach me: 
   + Facebook: https://www.facebook.com/nam.machong
   + Instagram: https://www.instagram.com/m.h.nam
