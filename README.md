@@ -1,8 +1,7 @@
 - 🧑 Hi, my fullname is Mac Hong Nam
-- 🎂 D.O.B: 2001-07-03
-- 👀 I’m Fullstack Deverloper
-- 🌱 I’m currently learning Java, Javascript, PHP
-- 💞️ I’m studying at Academy Of Cryptography Techniques
+- 🎂 Date of birth: 05-02-2003
+- 👀 I’m a Fullstack Deverloper
+- 🎓 I’m studying at <a href="https://actvn.edu.vn/">Academy Of Cryptography Techniques</a>
 - 📫 Reach me: 
   + Facebook: https://www.facebook.com/nam.machong
   + Instagram: https://www.instagram.com/m.h.nam
