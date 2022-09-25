@@ -1,5 +1,6 @@
-<img src="https://zpsocial-f51-org.zadn.vn/fd6e5b5a0d27e379ba36.jpg">
+
 <h1>Information about me:</h1>
+</br>
 - 🧑 My fullname is Mac Hong Nam
 - 🎂 Date of birth: 05-02-2003
 - 👀 I’m a Fullstack Deverloper
