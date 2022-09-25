@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @MacHongNam
-- 👀 I’m interested in Web Programming 
+- 🧑 Hi, my fullname is Mac Hong Nam
+- 🎂 D.O.B: 2001-07-03
+- 👀 I’m Fullstack Deverloper
 - 🌱 I’m currently learning Java, Javascript, PHP
 - 💞️ I’m studying at Academy Of Cryptography Techniques
 - 📫 Reach me: 
