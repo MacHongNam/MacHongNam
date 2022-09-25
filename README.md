@@ -1,6 +1,3 @@
-
-<h1>Information about me:</h1>
-</br>
 - 🧑 My fullname is Mac Hong Nam
 - 🎂 Date of birth: 05-02-2003
 - 👀 I’m a Fullstack Deverloper
